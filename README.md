@@ -4,6 +4,7 @@
 
 **Update:** 
 
+ - Disbaled handlebars plugin for HTML files (useful if you work with Vue components)
  - Fixed parcel watch and cache issue.
 
 ```js
